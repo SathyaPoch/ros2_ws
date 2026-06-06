@@ -1,0 +1,3 @@
+[console_scripts]
+odometry_subscriber = odometry_pkg.odometry_subscriber:main
+

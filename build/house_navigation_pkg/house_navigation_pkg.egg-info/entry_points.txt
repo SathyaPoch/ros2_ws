@@ -1,0 +1,3 @@
+[console_scripts]
+house_navigation = house_navigation_pkg.house_navigation:main
+

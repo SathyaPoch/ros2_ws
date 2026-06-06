@@ -1,0 +1,20 @@
+[1.994s] Invoking command in '/home/pochsathya/ros2_ws/src/publisher_pkg': PYTHONPATH=/home/pochsathya/ros2_ws/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/pochsathya/ros2_ws/build/publisher_pkg/build install --record /home/pochsathya/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data
+[2.188s] running egg_info
+[2.188s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[2.188s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[2.188s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[2.188s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[2.189s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[2.190s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[2.190s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[2.190s] running build
+[2.190s] running build_py
+[2.190s] running install
+[2.191s] running install_lib
+[2.191s] running install_data
+[2.191s] running install_egg_info
+[2.193s] removing '/home/pochsathya/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.193s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/pochsathya/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info
+[2.193s] running install_scripts
+[2.207s] writing list of installed files to '/home/pochsathya/ros2_ws/build/publisher_pkg/install.log'
+[2.224s] Invoked command in '/home/pochsathya/ros2_ws/src/publisher_pkg' returned '0': PYTHONPATH=/home/pochsathya/ros2_ws/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/pochsathya/ros2_ws/build/publisher_pkg/build install --record /home/pochsathya/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data

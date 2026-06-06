@@ -1,0 +1,22 @@
+[2.081s] Invoking command in '/home/pochsathya/ros2_ws/src/my_first_pkg': PYTHONPATH=/home/pochsathya/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/pochsathya/ros2_ws/build/my_first_pkg/build install --record /home/pochsathya/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[2.247s] running egg_info
+[2.248s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[2.248s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[2.248s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[2.248s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[2.248s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[2.250s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[2.250s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[2.250s] running build
+[2.250s] running build_py
+[2.250s] running install
+[2.251s] running install_lib
+[2.252s] running install_data
+[2.252s] running install_egg_info
+[2.253s] removing '/home/pochsathya/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.253s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /home/pochsathya/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[2.254s] running install_scripts
+[2.269s] Installing Sathya_node script to /home/pochsathya/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[2.269s] Installing subscriber_node script to /home/pochsathya/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[2.269s] writing list of installed files to '/home/pochsathya/ros2_ws/build/my_first_pkg/install.log'
+[2.291s] Invoked command in '/home/pochsathya/ros2_ws/src/my_first_pkg' returned '0': PYTHONPATH=/home/pochsathya/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/pochsathya/ros2_ws/build/my_first_pkg/build install --record /home/pochsathya/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data

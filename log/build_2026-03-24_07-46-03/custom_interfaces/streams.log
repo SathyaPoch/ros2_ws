@@ -1,0 +1,24 @@
+[0.009s] Invoking command in '/home/pochsathya/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=/home/pochsathya/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/pochsathya/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/pochsathya/ros2_ws/install/custom_interfaces
+[0.020s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.099s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[0.116s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.117s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.120s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.126s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.132s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.150s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.150s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.203s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.226s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.229s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.326s] [31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:229 (message):
+[0.326s]   Packages installing interfaces must include
+[0.326s]   '<member_of_group>rosidl_interface_packages</member_of_group>' in their
+[0.326s]   package.xml
+[0.327s] Call Stack (most recent call first):
+[0.327s]   CMakeLists.txt:26 (rosidl_generate_interfaces)
+[0.327s] 
+[0.327s] [0m
+[0.327s] -- Configuring incomplete, errors occurred!
+[0.327s] See also "/home/pochsathya/ros2_ws/build/custom_interfaces/CMakeFiles/CMakeOutput.log".
+[0.333s] Invoked command in '/home/pochsathya/ros2_ws/build/custom_interfaces' returned '1': CMAKE_PREFIX_PATH=/home/pochsathya/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/pochsathya/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/pochsathya/ros2_ws/install/custom_interfaces

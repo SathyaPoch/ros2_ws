@@ -1,0 +1,21 @@
+[0.561s] Invoking command in '/home/pochsathya/ros2_ws/example36_pkg': PYTHONPATH=/home/pochsathya/ros2_ws/build/example36_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/example36_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/example36_pkg build --build-base /home/pochsathya/ros2_ws/build/example36_pkg/build install --record /home/pochsathya/ros2_ws/build/example36_pkg/install.log --single-version-externally-managed install_data
+[0.837s] running egg_info
+[0.837s] writing ../build/example36_pkg/example36_pkg.egg-info/PKG-INFO
+[0.837s] writing dependency_links to ../build/example36_pkg/example36_pkg.egg-info/dependency_links.txt
+[0.838s] writing entry points to ../build/example36_pkg/example36_pkg.egg-info/entry_points.txt
+[0.838s] writing requirements to ../build/example36_pkg/example36_pkg.egg-info/requires.txt
+[0.838s] writing top-level names to ../build/example36_pkg/example36_pkg.egg-info/top_level.txt
+[0.839s] reading manifest file '../build/example36_pkg/example36_pkg.egg-info/SOURCES.txt'
+[0.840s] writing manifest file '../build/example36_pkg/example36_pkg.egg-info/SOURCES.txt'
+[0.840s] running build
+[0.840s] running build_py
+[0.840s] running install
+[0.840s] running install_lib
+[0.841s] running install_data
+[0.841s] running install_egg_info
+[0.842s] removing '/home/pochsathya/ros2_ws/install/example36_pkg/lib/python3.10/site-packages/example36_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.842s] Copying ../build/example36_pkg/example36_pkg.egg-info to /home/pochsathya/ros2_ws/install/example36_pkg/lib/python3.10/site-packages/example36_pkg-0.0.0-py3.10.egg-info
+[0.842s] running install_scripts
+[0.855s] Installing example36 script to /home/pochsathya/ros2_ws/install/example36_pkg/lib/example36_pkg
+[0.856s] writing list of installed files to '/home/pochsathya/ros2_ws/build/example36_pkg/install.log'
+[0.871s] Invoked command in '/home/pochsathya/ros2_ws/example36_pkg' returned '0': PYTHONPATH=/home/pochsathya/ros2_ws/build/example36_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/example36_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/example36_pkg build --build-base /home/pochsathya/ros2_ws/build/example36_pkg/build install --record /home/pochsathya/ros2_ws/build/example36_pkg/install.log --single-version-externally-managed install_data

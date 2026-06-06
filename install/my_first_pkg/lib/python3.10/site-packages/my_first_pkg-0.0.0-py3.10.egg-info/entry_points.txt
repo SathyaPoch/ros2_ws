@@ -1,0 +1,4 @@
+[console_scripts]
+Sathya_node = my_first_pkg.sathya_node:main
+subscriber_node = my_first_pkg.subscriber_node:main
+

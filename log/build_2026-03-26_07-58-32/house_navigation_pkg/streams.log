@@ -1,0 +1,24 @@
+[1.990s] Invoking command in '/home/pochsathya/ros2_ws/src/house_navigation_pkg': PYTHONPATH=/home/pochsathya/ros2_ws/build/house_navigation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/house_navigation_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/house_navigation_pkg build --build-base /home/pochsathya/ros2_ws/build/house_navigation_pkg/build install --record /home/pochsathya/ros2_ws/build/house_navigation_pkg/install.log --single-version-externally-managed install_data
+[2.154s] running egg_info
+[2.154s] writing ../../build/house_navigation_pkg/house_navigation_pkg.egg-info/PKG-INFO
+[2.154s] writing dependency_links to ../../build/house_navigation_pkg/house_navigation_pkg.egg-info/dependency_links.txt
+[2.154s] writing entry points to ../../build/house_navigation_pkg/house_navigation_pkg.egg-info/entry_points.txt
+[2.155s] writing requirements to ../../build/house_navigation_pkg/house_navigation_pkg.egg-info/requires.txt
+[2.155s] writing top-level names to ../../build/house_navigation_pkg/house_navigation_pkg.egg-info/top_level.txt
+[2.156s] reading manifest file '../../build/house_navigation_pkg/house_navigation_pkg.egg-info/SOURCES.txt'
+[2.157s] writing manifest file '../../build/house_navigation_pkg/house_navigation_pkg.egg-info/SOURCES.txt'
+[2.157s] running build
+[2.157s] running build_py
+[2.157s] copying house_navigation_pkg/house_navigation.py -> /home/pochsathya/ros2_ws/build/house_navigation_pkg/build/lib/house_navigation_pkg
+[2.157s] running install
+[2.157s] running install_lib
+[2.158s] copying /home/pochsathya/ros2_ws/build/house_navigation_pkg/build/lib/house_navigation_pkg/house_navigation.py -> /home/pochsathya/ros2_ws/install/house_navigation_pkg/lib/python3.10/site-packages/house_navigation_pkg
+[2.158s] byte-compiling /home/pochsathya/ros2_ws/install/house_navigation_pkg/lib/python3.10/site-packages/house_navigation_pkg/house_navigation.py to house_navigation.cpython-310.pyc
+[2.159s] running install_data
+[2.159s] running install_egg_info
+[2.160s] removing '/home/pochsathya/ros2_ws/install/house_navigation_pkg/lib/python3.10/site-packages/house_navigation_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.160s] Copying ../../build/house_navigation_pkg/house_navigation_pkg.egg-info to /home/pochsathya/ros2_ws/install/house_navigation_pkg/lib/python3.10/site-packages/house_navigation_pkg-0.0.0-py3.10.egg-info
+[2.160s] running install_scripts
+[2.174s] Installing house_navigation script to /home/pochsathya/ros2_ws/install/house_navigation_pkg/lib/house_navigation_pkg
+[2.174s] writing list of installed files to '/home/pochsathya/ros2_ws/build/house_navigation_pkg/install.log'
+[2.190s] Invoked command in '/home/pochsathya/ros2_ws/src/house_navigation_pkg' returned '0': PYTHONPATH=/home/pochsathya/ros2_ws/build/house_navigation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/house_navigation_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/house_navigation_pkg build --build-base /home/pochsathya/ros2_ws/build/house_navigation_pkg/build install --record /home/pochsathya/ros2_ws/build/house_navigation_pkg/install.log --single-version-externally-managed install_data

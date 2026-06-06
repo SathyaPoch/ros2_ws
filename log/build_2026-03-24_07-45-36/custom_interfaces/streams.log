@@ -1,0 +1,44 @@
+[0.008s] Invoking command in '/home/pochsathya/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=/home/pochsathya/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/pochsathya/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/pochsathya/ros2_ws/install/custom_interfaces
+[0.085s] -- The C compiler identification is GNU 11.4.0
+[0.172s] -- The CXX compiler identification is GNU 11.4.0
+[0.179s] -- Detecting C compiler ABI info
+[0.271s] -- Detecting C compiler ABI info - done
+[0.276s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.276s] -- Detecting C compile features
+[0.277s] -- Detecting C compile features - done
+[0.281s] -- Detecting CXX compiler ABI info
+[0.366s] -- Detecting CXX compiler ABI info - done
+[0.371s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.371s] -- Detecting CXX compile features
+[0.371s] -- Detecting CXX compile features - done
+[0.375s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.493s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.575s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[0.604s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.608s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.620s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.632s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.643s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.677s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.679s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.740s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.758s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.780s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.786s] -- Looking for pthread.h
+[0.841s] -- Looking for pthread.h - found
+[0.841s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.926s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.927s] -- Found Threads: TRUE  
+[0.973s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.982s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.099s] [31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:229 (message):
+[1.099s]   Packages installing interfaces must include
+[1.099s]   '<member_of_group>rosidl_interface_packages</member_of_group>' in their
+[1.099s]   package.xml
+[1.099s] Call Stack (most recent call first):
+[1.099s]   CMakeLists.txt:26 (rosidl_generate_interfaces)
+[1.099s] 
+[1.099s] [0m
+[1.099s] -- Configuring incomplete, errors occurred!
+[1.099s] See also "/home/pochsathya/ros2_ws/build/custom_interfaces/CMakeFiles/CMakeOutput.log".
+[1.105s] Invoked command in '/home/pochsathya/ros2_ws/build/custom_interfaces' returned '1': CMAKE_PREFIX_PATH=/home/pochsathya/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/pochsathya/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/pochsathya/ros2_ws/install/custom_interfaces

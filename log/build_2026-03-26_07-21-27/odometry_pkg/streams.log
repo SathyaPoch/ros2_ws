@@ -1,0 +1,21 @@
+[1.517s] Invoking command in '/home/pochsathya/ros2_ws/src/odometry_pkg': PYTHONPATH=/home/pochsathya/ros2_ws/build/odometry_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/odometry_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odometry_pkg build --build-base /home/pochsathya/ros2_ws/build/odometry_pkg/build install --record /home/pochsathya/ros2_ws/build/odometry_pkg/install.log --single-version-externally-managed install_data
+[1.661s] running egg_info
+[1.661s] writing ../../build/odometry_pkg/odometry_pkg.egg-info/PKG-INFO
+[1.662s] writing dependency_links to ../../build/odometry_pkg/odometry_pkg.egg-info/dependency_links.txt
+[1.662s] writing entry points to ../../build/odometry_pkg/odometry_pkg.egg-info/entry_points.txt
+[1.662s] writing requirements to ../../build/odometry_pkg/odometry_pkg.egg-info/requires.txt
+[1.662s] writing top-level names to ../../build/odometry_pkg/odometry_pkg.egg-info/top_level.txt
+[1.663s] reading manifest file '../../build/odometry_pkg/odometry_pkg.egg-info/SOURCES.txt'
+[1.664s] writing manifest file '../../build/odometry_pkg/odometry_pkg.egg-info/SOURCES.txt'
+[1.664s] running build
+[1.664s] running build_py
+[1.664s] running install
+[1.664s] running install_lib
+[1.665s] running install_data
+[1.665s] running install_egg_info
+[1.666s] removing '/home/pochsathya/ros2_ws/install/odometry_pkg/lib/python3.10/site-packages/odometry_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.666s] Copying ../../build/odometry_pkg/odometry_pkg.egg-info to /home/pochsathya/ros2_ws/install/odometry_pkg/lib/python3.10/site-packages/odometry_pkg-0.0.0-py3.10.egg-info
+[1.666s] running install_scripts
+[1.679s] Installing odometry_subscriber script to /home/pochsathya/ros2_ws/install/odometry_pkg/lib/odometry_pkg
+[1.679s] writing list of installed files to '/home/pochsathya/ros2_ws/build/odometry_pkg/install.log'
+[1.693s] Invoked command in '/home/pochsathya/ros2_ws/src/odometry_pkg' returned '0': PYTHONPATH=/home/pochsathya/ros2_ws/build/odometry_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pochsathya/ros2_ws/install/odometry_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odometry_pkg build --build-base /home/pochsathya/ros2_ws/build/odometry_pkg/build install --record /home/pochsathya/ros2_ws/build/odometry_pkg/install.log --single-version-externally-managed install_data
